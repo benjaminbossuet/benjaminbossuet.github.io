@@ -4,7 +4,7 @@ title: "Hello World!"
 published: true
 ---
 
-## Hello World!
+## Jekyll Now is up and running!
 
 This post is using the default post from [Jekyll Now](http://www.jekyllnow.com/ "Create a Jekyll Blog in minute")
 
